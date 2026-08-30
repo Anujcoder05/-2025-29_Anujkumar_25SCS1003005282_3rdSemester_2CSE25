@@ -388,13 +388,13 @@ Sales-Prediction-Analysis/
 
 **Programme:** B.Tech – Computer Science and Engineering
 
-**Institution:** B.I.T. Sindri
+**Internship at:** B.I.T. Sindri
 
-**Project Guide:** Mr. Jitendra Kumar, Assistant Professor
+**Project Guide:** Mr. Jitendra Kumar, Assistant Professor, B.I.T SINDRI
 
 **Academic Session:** 2025–2026
 
-**Report Date:** July 2026
+**Report Date:** August 2026
 
 ---
 
@@ -413,8 +413,7 @@ The final Random Forest model achieved **R² = 0.860** and **MAE = $36.35**, pro
 **Anuj Kumar**
 
 B.Tech Computer Science and Engineering
-
-B.I.T. Sindri
+IILM UNIVERSITY, GREATER NOIDA
 
 ---
 

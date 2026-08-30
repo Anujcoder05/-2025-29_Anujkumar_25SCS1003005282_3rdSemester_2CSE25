@@ -344,42 +344,6 @@ These additions could help explain variance that remains unexplained by the curr
 
 ---
 
-## 📁 Suggested Repository Structure
-
-```text
-Sales-Prediction-Analysis/
-│
-├── README.md
-│
-├── data/
-│   └── dataset.csv
-│
-├── notebooks/
-│   └── sales_prediction_analysis.ipynb
-│
-├── src/
-│   ├── data_preprocessing.py
-│   ├── feature_engineering.py
-│   ├── model_training.py
-│   ├── model_evaluation.py
-│   └── model_interpretation.py
-│
-├── models/
-│   └── random_forest_profit_model.pkl
-│
-├── results/
-│   ├── figures/
-│   ├── model_scores.json
-│   └── feature_importance.json
-│
-└── report/
-    └── BIT_ML_Project_Report.pdf
-```
-
-> **Note:** Adjust the folder names above to match the actual files in your GitHub repository.
-
----
-
 ## 🎓 Academic Information
 
 **Project:** Sales Prediction Analysis using Machine Learning
